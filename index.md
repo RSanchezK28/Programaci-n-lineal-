@@ -8,5 +8,5 @@
 
 ## Problemas
 
-Maximizar  $$z=x_1+x_2\)  sujeto a \(x_1\geq o$$ 
+Maximizar  $$z=x_1+x_2$$  sujeto a $$x_1\geq o$$ 
 
