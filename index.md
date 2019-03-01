@@ -4,8 +4,9 @@
 
 - [Github](https://www.github.com/)
 - [Pagina de Python](https://www.python.org/)
+- [MathJax](https://www.mathjax.org/#gettingstarted)
 
 ## Problemas
 
-Maximizar \(z=x_1+x_2\)  sujeto a \(x_1=\geq_0\)
+Maximizar $z=x_1+x_2\)  sujeto a \(x_1\geq o$ 
 
