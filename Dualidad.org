@@ -34,3 +34,6 @@
 
 
 * Teoremas 
+
+  Demostraremos que el minimo del promebla dual es igual al máximo del
+  problema primitivo.
