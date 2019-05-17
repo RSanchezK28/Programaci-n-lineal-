@@ -1,0 +1,10 @@
+#+title: Dualidad en programación Lineal 
+#+author: Karyme Rivero Sánchez 
+#+date: 17 de mayo de 2019
+
+* Introducción 
+  Es una manera de asociar un cierto problema de programación lineal a
+  cada problema de programación lineal.
+* Ejemplo
+
+* Teoremas 
